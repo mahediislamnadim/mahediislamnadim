@@ -2,9 +2,6 @@
 
 
 
----
-
-## ✅ GitHub Profile README (তোমার প্রোফাইল পেজের জন্য)
 
 ```markdown
 # 👋 Hi, I'm Mahedi Islam Nadim
